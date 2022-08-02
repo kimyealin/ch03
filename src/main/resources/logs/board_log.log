@@ -1,0 +1,103 @@
+2022-08-02 13:31:48 INFO  --- [restartedMain] yeling.spring.Ch03Application : Starting Ch03Application using Java 15.0.2 on NT950XCJ-K58G with PID 5372 (C:\myProject\mySpring\ch03\target\classes started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:31:48 INFO  --- [restartedMain] yeling.spring.Ch03Application : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:31:48 INFO  --- [restartedMain] yeling.spring.Ch03Application : Started Ch03Application in 0.298 seconds (JVM running for 166.486) 
+2022-08-02 13:31:48 INFO  --- [restartedMain] yeling.spring.LoggingRunner : Infomation 로그 메세지 
+2022-08-02 13:31:48 WARN  --- [restartedMain] yeling.spring.LoggingRunner : Warnning 로그 메세지 
+2022-08-02 13:31:48 ERROR --- [restartedMain] yeling.spring.LoggingRunner : Error 로그 메세지 
+2022-08-02 13:34:27 INFO  --- [restartedMain] yeling.spring.Ch03Application : Starting Ch03Application using Java 15.0.2 on NT950XCJ-K58G with PID 15244 (C:\myProject\mySpring\ch03\target\classes started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:34:27 INFO  --- [restartedMain] yeling.spring.Ch03Application : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:34:52 INFO  --- [restartedMain] yeling.spring.Ch03Application : Starting Ch03Application using Java 15.0.2 on NT950XCJ-K58G with PID 10468 (C:\myProject\mySpring\ch03\target\classes started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:34:52 INFO  --- [restartedMain] yeling.spring.Ch03Application : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:34:53 INFO  --- [restartedMain] yeling.spring.Ch03Application : Started Ch03Application in 1.665 seconds (JVM running for 2.645) 
+2022-08-02 13:34:53 INFO  --- [restartedMain] yeling.spring.LoggingRunner : Infomation 로그 메세지 
+2022-08-02 13:34:53 WARN  --- [restartedMain] yeling.spring.LoggingRunner : Warnning 로그 메세지 
+2022-08-02 13:34:53 ERROR --- [restartedMain] yeling.spring.LoggingRunner : Error 로그 메세지 
+2022-08-02 13:36:35 INFO  --- [restartedMain] yeling.spring.Ch03Application : Starting Ch03Application using Java 15.0.2 on NT950XCJ-K58G with PID 10468 (C:\myProject\mySpring\ch03\target\classes started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:36:35 INFO  --- [restartedMain] yeling.spring.Ch03Application : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:36:35 INFO  --- [restartedMain] yeling.spring.Ch03Application : Started Ch03Application in 0.368 seconds (JVM running for 104.253) 
+2022-08-02 13:36:35 INFO  --- [restartedMain] yeling.spring.LoggingRunner : Infomation 로그 메세지 
+2022-08-02 13:36:35 WARN  --- [restartedMain] yeling.spring.LoggingRunner : Warnning 로그 메세지 
+2022-08-02 13:36:35 ERROR --- [restartedMain] yeling.spring.LoggingRunner : Error 로그 메세지 
+2022-08-02 13:36:37 INFO  --- [restartedMain] yeling.spring.Ch03Application : Starting Ch03Application using Java 15.0.2 on NT950XCJ-K58G with PID 10468 (C:\myProject\mySpring\ch03\target\classes started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:36:37 INFO  --- [restartedMain] yeling.spring.Ch03Application : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:36:37 INFO  --- [restartedMain] yeling.spring.Ch03Application : Started Ch03Application in 0.3 seconds (JVM running for 106.513) 
+2022-08-02 13:36:37 INFO  --- [restartedMain] yeling.spring.LoggingRunner : Infomation 로그 메세지 
+2022-08-02 13:36:37 WARN  --- [restartedMain] yeling.spring.LoggingRunner : Warnning 로그 메세지 
+2022-08-02 13:36:37 ERROR --- [restartedMain] yeling.spring.LoggingRunner : Error 로그 메세지 
+2022-08-02 13:36:48 INFO  --- [restartedMain] yeling.spring.Ch03Application : Starting Ch03Application using Java 15.0.2 on NT950XCJ-K58G with PID 10468 (C:\myProject\mySpring\ch03\target\classes started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:36:48 INFO  --- [restartedMain] yeling.spring.Ch03Application : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:36:48 INFO  --- [restartedMain] yeling.spring.Ch03Application : Started Ch03Application in 0.293 seconds (JVM running for 117.713) 
+2022-08-02 13:36:48 INFO  --- [restartedMain] yeling.spring.LoggingRunner : Infomation 로그 메세지 
+2022-08-02 13:36:48 WARN  --- [restartedMain] yeling.spring.LoggingRunner : Warnning 로그 메세지 
+2022-08-02 13:36:48 ERROR --- [restartedMain] yeling.spring.LoggingRunner : Error 로그 메세지 
+2022-08-02 13:36:54 INFO  --- [restartedMain] yeling.spring.Ch03Application : Starting Ch03Application using Java 15.0.2 on NT950XCJ-K58G with PID 10468 (C:\myProject\mySpring\ch03\target\classes started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:36:54 INFO  --- [restartedMain] yeling.spring.Ch03Application : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:36:54 INFO  --- [restartedMain] yeling.spring.Ch03Application : Started Ch03Application in 0.313 seconds (JVM running for 123.756) 
+2022-08-02 13:36:54 INFO  --- [restartedMain] yeling.spring.LoggingRunner : Infomation 로그 메세지 
+2022-08-02 13:36:54 WARN  --- [restartedMain] yeling.spring.LoggingRunner : Warnning 로그 메세지 
+2022-08-02 13:36:54 ERROR --- [restartedMain] yeling.spring.LoggingRunner : Error 로그 메세지 
+2022-08-02 13:42:34 INFO  --- [restartedMain] yeling.spring.Ch03Application : Starting Ch03Application using Java 15.0.2 on NT950XCJ-K58G with PID 10468 (C:\myProject\mySpring\ch03\target\classes started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:42:34 INFO  --- [restartedMain] yeling.spring.Ch03Application : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:42:35 INFO  --- [restartedMain] yeling.spring.Ch03Application : Started Ch03Application in 0.456 seconds (JVM running for 464.006) 
+2022-08-02 13:42:35 INFO  --- [restartedMain] yeling.spring.LoggingRunner : Infomation 로그 메세지 
+2022-08-02 13:42:35 WARN  --- [restartedMain] yeling.spring.LoggingRunner : Warnning 로그 메세지 
+2022-08-02 13:42:35 ERROR --- [restartedMain] yeling.spring.LoggingRunner : Error 로그 메세지 
+2022-08-02 13:42:37 INFO  --- [restartedMain] yeling.spring.Ch03Application : Starting Ch03Application using Java 15.0.2 on NT950XCJ-K58G with PID 10468 (C:\myProject\mySpring\ch03\target\classes started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:42:37 INFO  --- [restartedMain] yeling.spring.Ch03Application : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:42:38 INFO  --- [restartedMain] yeling.spring.Ch03Application : Started Ch03Application in 0.275 seconds (JVM running for 466.851) 
+2022-08-02 13:42:38 INFO  --- [restartedMain] yeling.spring.LoggingRunner : Infomation 로그 메세지 
+2022-08-02 13:42:38 WARN  --- [restartedMain] yeling.spring.LoggingRunner : Warnning 로그 메세지 
+2022-08-02 13:42:38 ERROR --- [restartedMain] yeling.spring.LoggingRunner : Error 로그 메세지 
+2022-08-02 13:43:00 INFO  --- [main] yeling.spring.BoardControllerTest : Starting BoardControllerTest using Java 15.0.2 on NT950XCJ-K58G with PID 17884 (started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:43:00 INFO  --- [main] yeling.spring.BoardControllerTest : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:43:03 INFO  --- [main] yeling.spring.BoardControllerTest : Started BoardControllerTest in 3.046 seconds (JVM running for 4.369) 
+2022-08-02 13:43:03 INFO  --- [main] yeling.spring.LoggingRunner : Infomation �α� �޼��� 
+2022-08-02 13:43:03 WARN  --- [main] yeling.spring.LoggingRunner : Warnning �α� �޼��� 
+2022-08-02 13:43:03 ERROR --- [main] yeling.spring.LoggingRunner : Error �α� �޼��� 
+2022-08-02 13:43:03 INFO  --- [main] yeling.spring.Ch03ApplicationTests : Starting Ch03ApplicationTests using Java 15.0.2 on NT950XCJ-K58G with PID 17884 (started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:43:03 INFO  --- [main] yeling.spring.Ch03ApplicationTests : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:43:04 INFO  --- [main] yeling.spring.Ch03ApplicationTests : Started Ch03ApplicationTests in 0.9 seconds (JVM running for 5.56) 
+2022-08-02 13:43:04 INFO  --- [main] yeling.spring.LoggingRunner : Infomation �α� �޼��� 
+2022-08-02 13:43:04 WARN  --- [main] yeling.spring.LoggingRunner : Warnning �α� �޼��� 
+2022-08-02 13:43:04 ERROR --- [main] yeling.spring.LoggingRunner : Error �α� �޼��� 
+2022-08-02 13:43:04 INFO  --- [main] yeling.spring.PropertiesTest : Starting PropertiesTest using Java 15.0.2 on NT950XCJ-K58G with PID 17884 (started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:43:04 INFO  --- [main] yeling.spring.PropertiesTest : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:46:35 INFO  --- [restartedMain] yeling.spring.Ch03Application : Starting Ch03Application using Java 15.0.2 on NT950XCJ-K58G with PID 10468 (C:\myProject\mySpring\ch03\target\classes started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:46:35 INFO  --- [restartedMain] yeling.spring.Ch03Application : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:46:36 INFO  --- [restartedMain] yeling.spring.Ch03Application : Started Ch03Application in 0.699 seconds (JVM running for 705.144) 
+2022-08-02 13:46:36 INFO  --- [restartedMain] yeling.spring.LoggingRunner : Infomation 로그 메세지 
+2022-08-02 13:46:36 WARN  --- [restartedMain] yeling.spring.LoggingRunner : Warnning 로그 메세지 
+2022-08-02 13:46:36 ERROR --- [restartedMain] yeling.spring.LoggingRunner : Error 로그 메세지 
+2022-08-02 13:46:55 INFO  --- [restartedMain] yeling.spring.Ch03Application : Starting Ch03Application using Java 15.0.2 on NT950XCJ-K58G with PID 10468 (C:\myProject\mySpring\ch03\target\classes started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:46:55 INFO  --- [restartedMain] yeling.spring.Ch03Application : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:46:55 INFO  --- [restartedMain] yeling.spring.Ch03Application : Started Ch03Application in 0.312 seconds (JVM running for 724.67) 
+2022-08-02 13:46:55 INFO  --- [restartedMain] yeling.spring.LoggingRunner : Infomation 로그 메세지 
+2022-08-02 13:46:55 WARN  --- [restartedMain] yeling.spring.LoggingRunner : Warnning 로그 메세지 
+2022-08-02 13:46:55 ERROR --- [restartedMain] yeling.spring.LoggingRunner : Error 로그 메세지 
+2022-08-02 13:46:57 INFO  --- [main] yeling.spring.BoardControllerTest : Starting BoardControllerTest using Java 15.0.2 on NT950XCJ-K58G with PID 16500 (started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:46:57 INFO  --- [main] yeling.spring.BoardControllerTest : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:47:00 INFO  --- [main] yeling.spring.BoardControllerTest : Started BoardControllerTest in 3.259 seconds (JVM running for 4.71) 
+2022-08-02 13:47:00 INFO  --- [main] yeling.spring.LoggingRunner : Infomation �α� �޼��� 
+2022-08-02 13:47:00 WARN  --- [main] yeling.spring.LoggingRunner : Warnning �α� �޼��� 
+2022-08-02 13:47:00 ERROR --- [main] yeling.spring.LoggingRunner : Error �α� �޼��� 
+2022-08-02 13:47:00 INFO  --- [main] yeling.spring.Ch03ApplicationTests : Starting Ch03ApplicationTests using Java 15.0.2 on NT950XCJ-K58G with PID 16500 (started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:47:00 INFO  --- [main] yeling.spring.Ch03ApplicationTests : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:47:01 INFO  --- [main] yeling.spring.Ch03ApplicationTests : Started Ch03ApplicationTests in 1.038 seconds (JVM running for 5.926) 
+2022-08-02 13:47:01 INFO  --- [main] yeling.spring.LoggingRunner : Infomation �α� �޼��� 
+2022-08-02 13:47:01 WARN  --- [main] yeling.spring.LoggingRunner : Warnning �α� �޼��� 
+2022-08-02 13:47:01 ERROR --- [main] yeling.spring.LoggingRunner : Error �α� �޼��� 
+2022-08-02 13:47:01 INFO  --- [main] yeling.spring.PropertiesTest : Starting PropertiesTest using Java 15.0.2 on NT950XCJ-K58G with PID 16500 (started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:47:01 INFO  --- [main] yeling.spring.PropertiesTest : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:47:02 INFO  --- [main] yeling.spring.PropertiesTest : Started PropertiesTest in 0.832 seconds (JVM running for 6.791) 
+2022-08-02 13:47:02 INFO  --- [main] yeling.spring.LoggingRunner : Infomation �α� �޼��� 
+2022-08-02 13:47:02 WARN  --- [main] yeling.spring.LoggingRunner : Warnning �α� �޼��� 
+2022-08-02 13:47:02 ERROR --- [main] yeling.spring.LoggingRunner : Error �α� �޼��� 
+2022-08-02 13:51:28 INFO  --- [restartedMain] yeling.spring.Ch03Application : Starting Ch03Application using Java 15.0.2 on NT950XCJ-K58G with PID 10468 (C:\myProject\mySpring\ch03\target\classes started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:51:28 INFO  --- [restartedMain] yeling.spring.Ch03Application : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:51:28 INFO  --- [restartedMain] yeling.spring.Ch03Application : Started Ch03Application in 0.251 seconds (JVM running for 997.185) 
+2022-08-02 13:51:28 INFO  --- [restartedMain] yeling.spring.LoggingRunner : Infomation 로그 메세지 
+2022-08-02 13:51:28 WARN  --- [restartedMain] yeling.spring.LoggingRunner : Warnning 로그 메세지 
+2022-08-02 13:51:28 ERROR --- [restartedMain] yeling.spring.LoggingRunner : Error 로그 메세지 
+2022-08-02 13:57:25 INFO  --- [restartedMain] yeling.spring.Ch03Application : Starting Ch03Application using Java 15.0.2 on NT950XCJ-K58G with PID 10468 (C:\myProject\mySpring\ch03\target\classes started by user in C:\myProject\mySpring\ch03) 
+2022-08-02 13:57:25 INFO  --- [restartedMain] yeling.spring.Ch03Application : No active profile set, falling back to 1 default profile: "default" 
+2022-08-02 13:57:25 INFO  --- [restartedMain] yeling.spring.Ch03Application : Started Ch03Application in 0.252 seconds (JVM running for 1354.661) 
